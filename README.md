@@ -41,18 +41,7 @@ I'm always curious and eager to learn new things. Staying updated with the lates
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-
----
-
 ## 📬 Let's Connect
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Portfolio**: [Your Portfolio Link](https://yourportfolio.com)
-
-Feel free to explore my repositories and reach out if you'd like to work together!
+- **Email**: [omazig93@gmail.com](mailto:omazig93@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/omer-mazig-514145265/](https://www.linkedin.com/in/omer-mazig-514145265/)
