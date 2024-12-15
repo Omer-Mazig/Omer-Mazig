@@ -31,16 +31,6 @@ Welcome to my GitHub! I'm a **Full-Stack Web Developer** who loves creating scal
 
 ---
 
-## 🌟 About Me
-
-I'm always curious and eager to learn new things. Staying updated with the latest trends and technologies in web development is something I prioritize. My goal is to create meaningful projects that not only solve problems but also provide great user experiences.
-
-- 🌍 Open to **collaborations** on projects that make an impact
-- 💡 Always looking to **learn and grow** while sharing what I know
-- 🌟 Aiming for **clean, maintainable code** and **best practices**
-
----
-
 ## 📬 Let's Connect
 
 - **Email**: [omazig93@gmail.com](mailto:omazig93@gmail.com)
